@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\WebApplicationSignalR-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|d:\\repos\\webapplicationsignalr-core\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|d:\\repos\\webapplicationsignalr-core\\webapplication1\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|d:\\repos\\webapplicationsignalr-core\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B2F642-AB6F-4360-B1CE-5E9C45708668}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\index.html",
+              "ToolTip": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-25T15:58:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chathub.cs",
+              "DocumentMoniker": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\Chathub.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Chathub.cs",
+              "ToolTip": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\Chathub.cs",
+              "RelativeToolTip": "WebApplication1\\Chathub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:58:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\repos\\WebApplicationSignalR-Core\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:57:22.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

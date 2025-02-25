@@ -1,0 +1,2 @@
+D:\repos\WebApplicationSignalR-Core\WebApplication1\wwwroot\index.html
+wwwroot\index.html
